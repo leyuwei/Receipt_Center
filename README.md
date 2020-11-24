@@ -24,7 +24,7 @@ Apache + MySQL + PHP
 1. Deploy Apache, MySQL, PHP on your own Linux-based server
 2. Determine your html directory (e.g., /var/www/html/) and copy all files in this repo to that location
 3. Run `initialize.sql` in your MySQL environment to initialize the basic database and tables
-4. Remotely Visit `receipt_center.html` on your server
+4. Remotely visit `receipt_center.html` on your server. If fails, please redo these four steps.
 
 To further prepare the platform for production and enable advanced management of receipts (by clicking the `control` button in the banner area), some codes must be modified. 
 
